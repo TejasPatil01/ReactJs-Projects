@@ -20,15 +20,8 @@ The **Color Changer** is an interactive web application built with **React.js** 
 
 ## 🏗️ How to Run the Project Locally
 
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/TejasPatil01/color-changer.git
    cd ColorChanger
- 
-2. **Install dependencies**:
- ```bash
-  npm install
-  
-3. **Run the development server**:
- ```bash
- npm run dev
