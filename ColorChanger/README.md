@@ -26,6 +26,9 @@ The **Color Changer** is an interactive web application built with **React.js** 
    cd ColorChanger
  
 2. **Install dependencies**:
+ ```bash
   npm install
-3. **Run the development server**
+  
+3. **Run the development server**:
+ ```bash
  npm run dev
