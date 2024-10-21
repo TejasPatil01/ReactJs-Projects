@@ -5,6 +5,7 @@ function App() {
  return(<>
    <div className="container">
    <div className="color-plate">
+  {/* Adding and Set prop as per need */}
  <ColorChanger  color = 'Red'/>
  <ColorChanger color = 'Green'/>
  <ColorChanger color = 'Blue'/>

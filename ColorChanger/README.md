@@ -5,7 +5,7 @@ The **Color Changer** is an interactive web application built with **React.js** 
 ## 🚀 Features
 
 - **Color Buttons**: Users can click predefined color buttons to instantly change the background color of the webpage.
-- **Custom Color Input**: Users can enter custom color codes (e.g., HEX, RGB) to set the background color.
+
 - **Live Preview**: Changes are applied instantly, providing immediate feedback to users.
 - **Responsive Design**: The application is responsive and works well on both desktop and mobile devices.
 
