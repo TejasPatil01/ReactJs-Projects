@@ -23,5 +23,5 @@ The **Color Changer** is an interactive web application built with **React.js** 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/TejasPatil01/color-changer.git
+   git clone https://github.com/TejasPatil01/ColorChanger.git
    cd ColorChanger
